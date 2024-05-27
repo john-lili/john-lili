@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @john-lili
+- 👀 I'm interested in just starting...
+- 🌱 I'm currently learning how to make money
+- 💞️ I try to collaborate to pass on knowledge
+- 📫 How to contact me follow and message
+- 😄 Pronouns: |he|his|elu|
+- ⚡ Fun fact: I'm not the smartest person in the circle, I'm the one who gives the result$%#
+<!---
+john-lili/john-lili is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
